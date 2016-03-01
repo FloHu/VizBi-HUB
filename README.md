@@ -41,3 +41,21 @@ In the GalaxyZoo folder, is a file containing information about the images (gala
 Found via http://www.galaxyzoo.org/ which pointed me to http://www.sdss.org/dr12./ described in this article http://iopscience.iop.org/article/10.1088/0067-0049/219/1/12/meta;jsessionid=F71FE985792C4CE9913D141C0589FE4C.c2.iopscience.cld.iop.org
 
 I looked through images via the galaxyzoo website classifier link, and pulled out and saved info on images that are relatively different from each other i.e. I wanted to find a small data set which showed lots of different kinds of galaxy morphologies.
+
+## London data from LondonMapper
+
+This comes from http://www.londonmapper.org.uk, and is in the LondonBoroughs folder.
+
+The map showing where the boroughs are (LondonmapperBasemap.jpg) I got from http://www.londonmapper.org.uk/maps/reference-map/#basemap and is with a CC BY-NC-ND 3.0 – Attribution-NonCommercial-NoDerivs 3.0 Unported license http://creativecommons.org/licenses/by-nc-nd/3.0/
+
+Data tables provided in Excel and tab separated format are:
+
+Carbon emissions per borough http://www.londonmapper.org.uk/maps/environment-and-travel/b-2011-carbonemissions/
+
+Numbers of stag beetles sighted per borough http://www.londonmapper.org.uk/maps/environment-and-travel/b-2014-glnpstagbeetle/
+
+Population per borough http://www.londonmapper.org.uk/maps/population/b-2011-population/
+
+Wealthy households per borough http://www.londonmapper.org.uk/maps/poverty-and-wealth/b-2010-wealthy/
+
+People making day trips to visit per borough http://www.londonmapper.org.uk/maps/environment-and-travel/b-2012-daytripvisitors/
