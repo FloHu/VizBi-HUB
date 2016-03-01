@@ -33,3 +33,11 @@ Bartlam-Brooks HLA, Beck PSA, Bohrer G, Harris S (2013) In search of greener pas
 Bartlam-Brooks HLA, Harris S (2013) Data from: In search of greener pastures: using satellite images to predict the effects of environmental change on zebra migration. Movebank Data Repository. doi:10.5441/001/1.f3550b4f 
 
 to be found in folder "Zebras"
+
+## Galaxies
+
+In the GalaxyZoo folder, is a file containing information about the images (galaxyData.csv) in the images folder
+
+Found via http://www.galaxyzoo.org/ which pointed me to http://www.sdss.org/dr12./ described in this article http://iopscience.iop.org/article/10.1088/0067-0049/219/1/12/meta;jsessionid=F71FE985792C4CE9913D141C0589FE4C.c2.iopscience.cld.iop.org
+
+I looked through images via the galaxyzoo website classifier link, and pulled out and saved info on images that are relatively different from each other i.e. I wanted to find a small data set which showed lots of different kinds of galaxy morphologies.
