@@ -74,3 +74,11 @@ People making day trips to visit per borough http://www.londonmapper.org.uk/maps
 [Elsewhere on the TfL site](https://tfl.gov.uk/corporate/publications-and-reports/underground-services-performance) is a link to Entry and exit figures by year in Excel format: multi-year-station-entry-and-exit-figures.xls found at [this link](https://tfl.gov.uk/cdn/static/cms/documents/multi-year-station-entry-and-exit-figures.xls)
 
 The Tube Map is in the LondonUnderground folder in the file large-print-tube-map.pdf taken from [this link](http://content.tfl.gov.uk/large-print-tube-map.pdf) found on [this page](https://tfl.gov.uk/maps/track/tube).
+
+## Lemur life history
+
+Data DataRecord_1b_DLC_LH_Table_Analysis_06Jun14-1.csv was found after reading [this article](http://www.nature.com/articles/sdata201419#t2) in Scientific Data i.e. Zehr SM, Roach RG, Haring D, Taylor J, Cameron FH, Yoder AD (2014) Life history profiles for 27 strepsirrhine primate taxa generated using captive data from the Duke Lemur Center. Scientific Data 1: 140019. http://dx.doi.org/10.1038/sdata.2014.19
+
+The files we include are taken from this record in the [DRYAD database](http://datadryad.org/resource/doi:10.5061/dryad.fj974) and are storred together with a readme file describing its content. Also included is a PDF of the Scientific Data article describing the content sdata201419.pdf
+
+This content is found in the direcory "Lemurs"
