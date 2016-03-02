@@ -10,7 +10,7 @@ The Orange data frame has 35 rows and 3 columns of records of the growth of oran
 ## Cat health
 Cat data: The heart and body weights of samples of male and female cats used for _digitalis_ experiments.  The cats were all adult, over 2 kg body weight. (from R's MASS package)
 
-## Animal movements
+## Animal locations
 
 Taken from [Movebank](https://www.movebank.org), which provides (as I write) data associated with around 50 published articles using location data of a range of different aniamls.
 
@@ -33,6 +33,11 @@ Bartlam-Brooks HLA, Beck PSA, Bohrer G, Harris S (2013) In search of greener pas
 Bartlam-Brooks HLA, Harris S (2013) Data from: In search of greener pastures: using satellite images to predict the effects of environmental change on zebra migration. Movebank Data Repository. doi:10.5441/001/1.f3550b4f 
 
 to be found in folder "Zebras"
+
+### Elasmobranches
+
+This data, describing sitings of [elasmobranch fish](https://en.wikipedia.org/wiki/Elasmobranchii
+) i.e. sharks and rays is in the file Reef_Life_Survey_Global_reef_fish_dataset_Elasmobranch.csv . This was obtained from the [Reef Life Survey](http://reeflifesurvey.imas.utas.edu.au) website, which we came across when reading the [article describing this data](http://www.nature.com/articles/sdata20147) in the Nature Publishing Group journal Scientific Data. This file is in the directory "Elasmobranches". It describes locations of sitings of such fish across the world.
 
 ## Galaxies
 
