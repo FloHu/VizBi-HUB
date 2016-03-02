@@ -59,3 +59,13 @@ Population per borough http://www.londonmapper.org.uk/maps/population/b-2011-pop
 Wealthy households per borough http://www.londonmapper.org.uk/maps/poverty-and-wealth/b-2010-wealthy/
 
 People making day trips to visit per borough http://www.londonmapper.org.uk/maps/environment-and-travel/b-2012-daytripvisitors/
+
+## London Underground/Tube Data
+
+[http://vis.oobrien.com/tube/#metric=total&year=2014&layers=TTTTT&zoom=12&lon=-0.1059&lat=51.5283](London Tube Data Map), an interactive online map that lets you query Tube usage data and display it in many different ways. Note - the London Underground train lines are collectively referred to often as "The Tube"
+
+[Transport for London (TfL)](https://tfl.gov.uk/) provides data on a range of different aspects of public transport usage in London. [This page](https://tfl.gov.uk/info-for/open-data-users/our-feeds?intcmp=3671) has links to counts of customer entry and exit at all the stations, separated into weekdays, Saturday, and Sunday. The file in the LondonUnderground folder is for a weekday from 2010 counts-entries-10-weekday-sample.csv
+
+[Elsewhere on the TfL site](https://tfl.gov.uk/corporate/publications-and-reports/underground-services-performance) is a link to Entry and exit figures by year in Excel format: multi-year-station-entry-and-exit-figures.xls found at [this link](https://tfl.gov.uk/cdn/static/cms/documents/multi-year-station-entry-and-exit-figures.xls)
+
+The Tube Map is in the LondonUnderground folder in the file large-print-tube-map.pdf taken from [this link](http://content.tfl.gov.uk/large-print-tube-map.pdf) found on [this page](https://tfl.gov.uk/maps/track/tube).
