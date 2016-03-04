@@ -7,9 +7,6 @@ UFO sightings are from [NUFORC](http://www.nuforc.org/webreports.html), an organ
 ## Orange trees
 The Orange data frame has 35 rows and 3 columns of records of the growth of orange trees.
 
-## Cat health
-Cat data: The heart and body weights of samples of male and female cats used for _digitalis_ experiments. The cats were all adult, over 2 kg body weight. (from R's MASS package)
-
 ## Animal locations
 
 Taken from [Movebank](https://www.movebank.org), which provides (as I write) data associated with around 50 published articles using location data of a range of different animals.
