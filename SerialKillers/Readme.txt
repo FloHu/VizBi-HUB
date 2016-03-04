@@ -1,4 +1,4 @@
-Taken from the [Serial Killer Information Center](http://maamodt.asp.radford.edu/Serial%20Killer%20Information%20Center/Project%20Description.htm).
+Taken from the Serial Killer Information Center (http://maamodt.asp.radford.edu/Serial%20Killer%20Information%20Center/Project%20Description.htm).
 
 The serial killer information center was created to provide students, researchers, and the media with accurate data on serial killers. The project began in 1992 and data are added and revised on a continual basis. To date, the Radford/FGCU Serial Killer Database contains data on 4,068 serial killers.
 
