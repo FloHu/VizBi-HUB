@@ -82,3 +82,11 @@ Data DataRecord_1b_DLC_LH_Table_Analysis_06Jun14-1.csv was found after reading [
 The files we include are taken from this record in the [DRYAD database](http://datadryad.org/resource/doi:10.5061/dryad.fj974) and are storred together with a readme file describing its content. Also included is a PDF of the Scientific Data article describing the content sdata201419.pdf
 
 This content is found in the direcory "Lemurs"
+
+## World Bank Data
+The World Bank provides a [wealth of economic data](http://data.worldbank.org/indicator). In the directory "WorldBankData" you find world-wide data on womens's fertility, high technology exports, intellectual property and income shares held by the lower and upper 20% of the population. 
+
+## Cars
+The data was extracted from the 1974 _Motor Trend_ US magazine, and comprises fuel consumption and 10 aspects of automobile design and performance for 32 automobiles (1973-74 models).
+
+
