@@ -1,0 +1,56 @@
+{
+  "licenseType": "Unknown",
+  "dc:description": "Imported at Wed Mar 04 10:51:44 PST 2015 from UFO.xlsx.",
+  "exportable": true,
+  "dc:title": "UFO",
+  "dc:modified": "2015-03-05T04:24:30Z",
+  "dc:identifier": "15319zrD0GjbFzU1EWgIhECZiQduo6PAjMO03KsRm",
+  "tableSchema": {"columns": [
+    {
+      "datatype": "date",
+      "name": "col0",
+      "validateData": false,
+      "title": "Date"
+    },
+    {
+      "datatype": "location",
+      "name": "col1",
+      "validateData": false,
+      "title": "Location"
+    },
+    {
+      "datatype": "string",
+      "name": "col2",
+      "validateData": false,
+      "title": "State",
+      "latitudeLongitudeColumns": {
+        "latitudeColumn": "col1",
+        "longitudeColumn": "col2"
+      }
+    },
+    {
+      "datatype": "string",
+      "name": "col3",
+      "validateData": false,
+      "title": "Shape"
+    },
+    {
+      "datatype": "string",
+      "name": "col4",
+      "validateData": false,
+      "title": "Time"
+    },
+    {
+      "datatype": "string",
+      "name": "col5",
+      "validateData": false,
+      "title": "Summary"
+    },
+    {
+      "datatype": "date",
+      "name": "col6",
+      "validateData": false,
+      "title": "Upload Date"
+    }
+  ]}
+}
