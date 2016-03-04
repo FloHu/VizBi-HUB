@@ -86,4 +86,13 @@ The World Bank provides a [wealth of economic data](http://data.worldbank.org/in
 ## Cars
 The data was extracted from the 1974 _Motor Trend_ US magazine, and comprises fuel consumption and 10 aspects of automobile design and performance for 32 automobiles (1973-74 models).
 
+## Serial Killers
+This rather gruesome dataset is taken from the [Serial Killer Information Center](http://maamodt.asp.radford.edu/Serial%20Killer%20Information%20Center/Project%20Description.htm) of Radford University.
+
+## Extramarital Affairs
+Taken from R's Ecdat package. People are always interested in such things.
+
+Source:
+Fair, R. (1977) “A note on the computation of the tobit estimator”, Econometrica, 45, 1723-1727.
+
 
