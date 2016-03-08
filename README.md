@@ -101,26 +101,7 @@ The file "2db3.pdb.gz" in the directory 3DMacromolecularStructure is a single pr
 
 You could download and install a 3D macromolecular structure viewer such as [Chimera](http://www.cgl.ucsf.edu/chimera/index.html) to visualise the PDB file. Here is the [Chimera download page](http://www.cgl.ucsf.edu/chimera/download.html)
 
-Taking a question from a [training session](http://www.russelllab.org/wiki/index.php/Exercise:_DDX3X) taught by the [Russell Lab](http://www.russelllab.org/), including Matt Betts, who's at the HUB this evening in case you have any questions about this.
+This structure is described in (Sengoku et al, 2006](http://www.ncbi.nlm.nih.gov/pubmed/16630817). The pdf of this paper is included in the directory 3DMacromolecularStructure.
 
-"A high-throughput sequencing analysis of human childhood brain cancer tumours revealed several mutations in DDX3X:
+Suggested visualisation: try to highlight the residues important for binding to RNA and ATP.
 
-- D329V (the aspartate at position 329 is mutated to valine)
-- R326C
-- G530A
-- R534S
-- R326C
-- R475C
-- R376S
-- S412F
-- H527Y
-- I214S
-- F357S 
-
-What does DDX3X do and how? How might these mutations affect its function (if at all) ?"
-
-The structure in file 2db3.pdb.gz is of the Drosophila protein that is most similar to the human DDX3X protein.
-
-You could try choosing several visualisations of the structure in Chimera that illustrate the role you think these mutations might have in the function of the protein.
-
-An article describing the role of DDX3X in medulloblastomas is [described here](http://www.ncbi.nlm.nih.gov/pubmed/22832583) and is in the same directory in the file nihms466054.pdf in case that's of interest.
