@@ -105,3 +105,9 @@ This structure is described in (Sengoku et al, 2006](http://www.ncbi.nlm.nih.gov
 
 Suggested visualisation: try to highlight the residues important for binding to RNA and ATP.
 
+### Esophageal_cancer
+Smoking, Alcohol and (O)esophageal Cancer
+
+Data from a case-control study of (o)esophageal cancer in Ille-et-Vilaine, France.
+
+A data frame with records for 88 age/alcohol/tobacco combinations.
