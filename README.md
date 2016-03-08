@@ -95,4 +95,30 @@ Taken from R's Ecdat package. People are always interested in such things.
 Source:
 Fair, R. (1977) “A note on the computation of the tobit estimator”, Econometrica, 45, 1723-1727.
 
+### 3D Macromolecular Structure
 
+The file "2db3.pdb.gz" in the directory 3DMacromolecularStructure is a single protein, with two domains, including also RNA and an ATP analog. You could download the file from the PDB [here](http://www.rcsb.org/pdb/explore/explore.do?structureId=2db3).
+
+You could download and install a 3D macromolecular structure viewer such as [Chimera](http://www.cgl.ucsf.edu/chimera/index.html) to visualise the PDB file. Here is the [Chimera download page](http://www.cgl.ucsf.edu/chimera/download.html)
+
+Taking a question from a [training session](http://www.russelllab.org/wiki/index.php/Exercise:_DDX3X) taught by the [Russell Lab](http://www.russelllab.org/), including Matt Betts, who's at the HUB this evening in case you have any questions about this.
+
+"A high-throughput sequencing analysis of human childhood brain cancer tumours revealed several mutations in DDX3X:
+
+- D329V (the aspartate at position 329 is mutated to valine)
+- R326C
+- G530A
+- R534S
+- R326C
+- R475C
+- R376S
+- S412F
+- H527Y
+- I214S
+- F357S 
+
+What does DDX3X do and how? How might these mutations affect its function (if at all) ?"
+
+You could try choosing several visualisations of the structure in Chimera that illustrate the role you think these mutations might have in the function of the protein.
+
+An article describing the role of DDX3X in medulloblastomas is [described here](http://www.ncbi.nlm.nih.gov/pubmed/22832583) and is in the same directory in the file nihms466054.pdf in case that's of interest.
