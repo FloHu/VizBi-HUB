@@ -119,6 +119,8 @@ Taking a question from a [training session](http://www.russelllab.org/wiki/index
 
 What does DDX3X do and how? How might these mutations affect its function (if at all) ?"
 
+The structure in file 2db3.pdb.gz is of the Drosophila protein that is most similar to the human DDX3X protein.
+
 You could try choosing several visualisations of the structure in Chimera that illustrate the role you think these mutations might have in the function of the protein.
 
 An article describing the role of DDX3X in medulloblastomas is [described here](http://www.ncbi.nlm.nih.gov/pubmed/22832583) and is in the same directory in the file nihms466054.pdf in case that's of interest.
